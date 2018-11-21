@@ -3,7 +3,7 @@
 //  FitApp
 //
 //  Created by Edson Vaz on 11/12/18.
-//  Copyright © 2018 Edson Vaz All rights reserved.
+//  Copyright © 2018 Edson Vaz. All rights reserved.
 //
 
 import UIKit
