@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FitApp
 //
-//  Crey Gerardo Becerril on 11/12/18.
-//  Copyright © 2018 Gerardo Glz. All rights reserved.
+//  Crey Edson Vaz on 11/12/18.
+//  Copyright © 2018 Edson Vaz. All rights reserved.
 //
 
 import UIKit
